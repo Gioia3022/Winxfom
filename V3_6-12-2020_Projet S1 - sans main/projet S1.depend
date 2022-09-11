@@ -1,0 +1,4323 @@
+# depslib dependency file v1.0
+1606259985 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606259985 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606253776 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606122438 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+
+1606332134 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606331717 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606253776 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606324912 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606323365 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606325274 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606256706 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606257078 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606240055 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606323523 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606257094 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606256545 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+
+1606256371 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606122920 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606260210 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606332986 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606331690 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606323803 c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+
+1606330960 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606330657 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606332750 source:c:\users\apolline\documents\informatique2\projet s1\nouveau dossier\25-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606259985 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606259985 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606253776 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606122438 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+
+1606325274 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606256706 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606323523 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606323365 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606257094 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606389604 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+
+1606256371 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606253776 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606122920 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606334346 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606388650 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606389540 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"deck.h"
+	"collection.h"
+
+1606389411 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606346209 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	"joueur.h"
+	<iostream>
+	<vector>
+
+1606387880 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606323803 c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+
+1606388713 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606260210 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606334230 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606387847 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606346209 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606346107 source:c:\users\louis\onedrive\documents\inge 2\info\25-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606427584 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606427601 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606253776 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606346209 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606427483 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606253776 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606387880 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606323365 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606427542 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606390644 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606427829 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606325274 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606256706 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606323523 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606427829 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606256371 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606427829 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606334346 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606388650 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606323803 c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+
+1606427829 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606334230 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606387847 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606391093 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606390271 source:c:\users\louis\onedrive\documents\inge 2\info\26-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606437451 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\attaque.h
+	<iostream>
+	"carte.h"
+
+1606253776 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606325274 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\carte.cpp
+	"carte.h"
+
+1606256706 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606391093 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\collection.cpp
+	"collection.h"
+
+1606439867 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606427483 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606436987 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\energie.h
+	<string>
+	"carte.h"
+
+1606439878 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	"joueur.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606437432 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606437466 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\creature.cpp
+	"creature.h"
+
+1606427829 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\deck.cpp
+	"deck.h"
+
+1606427829 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606436316 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\boutique.cpp
+	"boutique.h"
+
+1606436400 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\energie.cpp
+	"energie.h"
+
+1606427829 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\fonctions.cpp
+	"fonctions.h"
+
+1606334346 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\jeu.cpp
+	"jeu.h"
+
+1606388650 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606437669 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606437056 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606437669 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\joueur.cpp
+	"joueur.h"
+
+1606427829 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606437669 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\match.cpp
+	"match.h"
+
+1606438050 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\26-11-2020_projet s1_louise & apo\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606437451 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606253776 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606436316 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606440450 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606436987 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606512048 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606437432 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606325274 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606256706 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606391093 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606440347 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606437466 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606501299 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606501298 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606436400 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606513924 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606515481 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606496475 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606503751 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606437056 c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606503703 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606515141 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606513924 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606511602 source:c:\users\louis\onedrive\documents\inge 2\info\v2_27-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606437451 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606253776 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606436316 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606440450 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606436987 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606512048 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606437432 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606325274 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606256706 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606391093 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606440347 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606437466 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606501299 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606501298 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606436400 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606515516 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606565446 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606565446 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606515141 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606570608 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606437056 c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606565446 source:c:\users\apolline\documents\informatique2\projet s1\28-11-2020_projet s1\28-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606437451 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606253776 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606325274 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606256706 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606391093 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606440347 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606440450 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606436987 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606512048 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606437432 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606437466 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606501299 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606501298 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606436400 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606515516 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606571592 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606570608 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606565446 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606437056 c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606565446 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606515141 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606565446 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606513924 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606574352 source:c:\users\louis\onedrive\documents\inge 2\info\28-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606649494 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606253776 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606675972 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606667142 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606436987 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606647068 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606437432 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606670931 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606649393 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606650174 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606440347 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606650362 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606650466 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606501298 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606650563 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606515516 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606675935 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606641788 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606665400 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606647698 c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606665399 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606663054 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606647236 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606669264 source:c:\users\apolline\documents\informatique2\projet s1\v2_28-11-2020_projet s1\28-11-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606649494 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606253776 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606683547 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606667142 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606436987 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606647068 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606437432 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606670931 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606649393 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606685221 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606440347 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606650362 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606650466 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606501298 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606650563 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606515516 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606665399 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606665400 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606663054 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606641788 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606647698 c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606647236 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606669264 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606685061 source:c:\users\louis\onedrive\documents\inge 2\info\v2_29-11-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606649494 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606747735 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606758822 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606667142 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606747735 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606747735 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606747735 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606670931 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606649393 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606754471 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606440347 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606650362 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606650466 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606501298 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606650563 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606515516 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606759376 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606641788 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606665400 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606647698 c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606665399 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606663054 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606647236 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606669264 source:c:\users\louis\onedrive\documents\v2_29-11-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606649494 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606747735 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606850332 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606667142 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606747735 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606846756 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606747735 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606670931 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606649393 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606754471 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606440347 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606650362 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606650466 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606501298 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606650563 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606515516 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606849543 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606641788 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606665400 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606647698 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606665399 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606663054 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606849799 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\match.cpp
+	"match.h"
+
+1606846702 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\v2_29-11-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606915347 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606747735 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606915346 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606915346 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606915347 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606440347 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606667142 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606747735 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606915347 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606747735 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606915347 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606915346 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606860594 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606915346 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606515516 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606915736 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606641788 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606665400 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606647698 c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606915585 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606663054 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606915347 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\match.cpp
+	"match.h"
+
+1606915347 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606915346 source:c:\users\apolline\documents\informatique2\projet s1\1-12-2020_projet s1\1-12-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606917586 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606438944 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606935500 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606936978 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606667142 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606935500 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606936909 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606935500 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606917586 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606930238 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606933823 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606933823 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606930238 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606932230 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606860594 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606917587 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606515516 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606935500 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606641788 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606932931 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606937316 c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606932931 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606916542 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606938063 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\match.cpp
+	"match.h"
+
+1606936935 source:c:\users\louis\onedrive\documents\inge 2\1-12-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606917586 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606943210 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606935500 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606427829 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606944326 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606943267 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606935500 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606944046 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606935500 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606917586 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606930238 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606240432 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606933823 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606933823 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606930238 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606944879 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606860594 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606917587 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606515516 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606938168 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606641788 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606932931 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606944326 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606932931 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606943267 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606946358 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\match.cpp
+	"match.h"
+
+1606936935 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v2-2-12-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606948129 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606950691 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606946851 c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606985454 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606949923 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\match.cpp
+	"match.h"
+
+1606946851 source:c:\users\giorg\downloads\v2-2-12-2020_projet s1\v2-2-12-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606948130 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1606992739 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606985456 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606949924 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\match.cpp
+	"match.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v4-2-12-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607000237 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\carte.cpp
+	"carte.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606948130 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\creature.cpp
+	"creature.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\energie.cpp
+	"energie.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\fonctions.cpp
+	"fonctions.h"
+
+1607089006 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\jeu.cpp
+	"jeu.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606985456 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\joueur.cpp
+	"joueur.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607089413 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\match.cpp
+	"match.h"
+
+1607033709 source:c:\users\apolline\documents\informatique2\projet s1\3-12-2020_projet s1\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607000237 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606948130 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607089006 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606985456 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607033709 source:c:\users\apolline\documents\informatique2\projet s1\4-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607124832 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606946852 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1606946852 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607123502 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607126709 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607124655 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607128365 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1606985456 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607121323 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607103193 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607124944 source:c:\users\louis\onedrive\documents\inge 2\info\4-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607161486 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607171231 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607126709 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607171231 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607178685 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607163873 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607158727 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607121323 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607170833 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607124944 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main\5-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607161486 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607183965 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607171231 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607126709 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607171231 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607178685 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607163873 c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607158727 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607121323 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607179657 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607124944 source:c:\users\apolline\documents\informatique2\projet s1\5-12-2020_projet s1 - sans main - avec new\5-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607161486 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1606946852 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607183965 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607171231 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607126709 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607171231 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607158727 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607121323 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606946852 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607163873 c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607179657 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607124944 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1607184413 source:c:\users\louis\onedrive\documents\5-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607161486 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1607189346 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607183965 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607126709 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607171231 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607121323 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607189076 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607163873 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607185139 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607124944 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1607188855 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607189894 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1607190453 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3-5-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1606946852 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607161486 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1607189346 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607183965 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607126709 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607119287 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607190453 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607189076 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607121323 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607192301 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607163873 c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607185139 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607191848 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607192388 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1607191848 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1607192301 source:c:\users\louis\onedrive\documents\inge 2\v3-5-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607198284 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1607189346 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607183965 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607199841 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607126709 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607191848 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607211465 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607210878 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607121323 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607197338 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607202622 c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607205245 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607211465 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1607211465 source:c:\users\apolline\documents\informatique2\projet s1\v4-5-12-2020_projet s1 - sans main\v3-5-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1606946852 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607259839 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1607189346 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607183965 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607199841 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607126709 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607191848 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607268440 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1607197338 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607210878 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607202622 c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607211465 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607121323 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607267348 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607259839 source:c:\users\louis\onedrive\documents\inge 2\info\6-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607189346 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607126834 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<iostream>
+	<vector>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1607199841 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607126709 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607191848 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607276431 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1607197338 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607210878 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607273352 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607273192 c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607121323 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607270996 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1607273193 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1607273193 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607273352 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607273193 source:c:\users\apolline\documents\informatique2\projet s1\v2_6-12-2020_projet s1 - sans main\6-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607278625 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1607278661 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1607189346 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607273193 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1607273192 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607199841 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607126709 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607191848 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607279608 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1607197338 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607210878 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607273352 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607273193 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607121323 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607273352 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607273193 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\v3_6-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1606946852 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607278625 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1607278661 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1607189346 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607273193 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1607273192 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607126834 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607291602 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607126709 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606946852 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607191848 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607282754 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1607197338 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607210878 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607280879 c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607273193 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607273193 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1607283823 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607294747 source:c:\users\louis\onedrive\documents\inge 2\v3_6-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1606946852 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607189346 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607126834 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607278661 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607092929 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1607291602 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607191848 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607119287 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607283823 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1606946852 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607273192 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607197338 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607210878 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607280879 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607273193 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1607295785 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1607295519 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1607295522 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1607295524 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+
+1607295710 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607295307 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\projet s1\versioni\decembre\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1606950452 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\attaque.cpp
+	"attaque.h"
+	"carte.h"
+	<iostream>
+
+1606950452 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\attaque.h
+	<iostream>
+	"carte.h"
+
+1606950452 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\carte.h
+	<iostream>
+	"fonctions.h"
+
+1606950452 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\fonctions.h
+	<windows.h>
+	<iostream>
+	<limits>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1607299385 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\boutique.cpp
+	"boutique.h"
+
+1607282261 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\boutique.h
+	"carte.h"
+	"energie.h"
+	"speciales.h"
+	"creature.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1606950452 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\energie.h
+	<string>
+	"carte.h"
+
+1607096529 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\speciales.h
+	"carte.h"
+	"creature.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<time.h>
+
+1606950452 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\creature.h
+	<vector>
+	"carte.h"
+	"attaque.h"
+	<iostream>
+	<vector>
+	<string>
+
+1607192946 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\carte.cpp
+	"carte.h"
+
+1607299119 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\cimetiere.cpp
+	"Cimetiere.h"
+
+1607276792 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\cimetiere.h
+	<iostream>
+	<vector>
+	"carte.h"
+
+1607130434 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\collection.cpp
+	"collection.h"
+
+1606950452 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\collection.h
+	<iostream>
+	<vector>
+	"carte.h"
+	"boutique.h"
+
+1607295202 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\creature.cpp
+	"creature.h"
+
+1607299122 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\deck.cpp
+	"deck.h"
+
+1606950452 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\deck.h
+	<vector>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciales.h"
+
+1607195448 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\energie.cpp
+	"energie.h"
+
+1607122887 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\fonctions.cpp
+	"fonctions.h"
+
+1607299310 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\joueur.cpp
+	"joueur.h"
+
+1607214478 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"carte.h"
+	"collection.h"
+	"deck.h"
+
+1607287423 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\main.cpp
+	"speciales.h"
+	"energie.h"
+	"boutique.h"
+	"deck.h"
+	"Cimetiere.h"
+	"collection.h"
+	"attaque.h"
+	"carte.h"
+	"creature.h"
+	"jeu.h"
+	"joueur.h"
+
+1607200938 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\jeu.h
+	<iostream>
+	"joueur.h"
+	"deck.h"
+	<vector>
+	<fstream>
+	"match.h"
+
+1607284479 c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\match.h
+	<vector>
+	"joueur.h"
+	"deck.h"
+	"Cimetiere.h"
+
+1607298907 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\match.cpp
+	"match.h"
+
+1607276793 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\speciales.cpp
+	"speciales.h"
+	"creature.h"
+
+1607299621 source:c:\users\prontoalluso\documents\università\cours\inge 2\informatique\s3\projet s1\zip\vf_6-12-2020_projet s1 - sans main\v3_6-12-2020_projet s1 - sans main\jeu.cpp
+	"jeu.h"
+

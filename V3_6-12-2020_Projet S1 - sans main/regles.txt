@@ -1,0 +1,34 @@
+	WELCOME TO WINXDOM
+	C'est un jeu de carte qui a pour theme le monde des WINX !
+	
+
+	! IMPORTANT !  Pour les nouveux joueurs:
+	
+	- Quand vous lancer votre premier match si 
+		vous voulez jouer avec un ami qui a pas joue avant non plus alors choisisez l'option 2 nouveaux joueurs
+		vous voulez jouer avec un ami qui a deja joue avant choisez l'option 1 nouveau joueur
+
+	- Vous allez tout les deux avoir une carte creature a jouer au debut par default cependant vous ne pouvez pas attaquer tant que vous n'avez pas assez de points energie (specifiques a la creature) pour les attaques
+
+	- Si vous piochez une carte speciale vous aurais le choix (tout comme dans le cas de la pioche d'une nouvelle creature) de poser la carte ou la mettre dans le cimitiere
+
+	- Si vous avez deja une carte speciale ou creature sur la table et vous decidez de poser une nouvelle carte la precedente sera automatiquement mise dans le cimtiere
+
+	- Si vous n'avez plus de cartes energies pour attaquer, de creatures pour vous proteger ou si vos LifePoints vont à 0 vous perdez par default
+
+	- Si vous perdez l'enjeu: une carte prise de votre deck, sera donne a votre adversaire et vice-versa
+
+	- Si vous gagnez on vous donne aussi une prime en fonction de comment vous avez jouez votre match (plus vous tuez de monstres => plus le match est difficile => plus vous gagnez de l'argent)
+
+
+	BOUTIQUE
+	- Une fois que votre joueur exise vous pouvez acheter autant de cartes que vous voulez (tant que vous avez de l'argent)
+
+
+
+
+
+										On espere que vous allez vous amusez la team dev: 
+		
+				Gioia Mariasole Galiazzo 					Louise Poirey						Apolline Fouquet
+
